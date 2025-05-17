@@ -56,15 +56,16 @@ In this version:
 ## 📸 Screenshots
 
 > - Start screen
-> - 
+>   
 >   ![image](https://github.com/user-attachments/assets/bb3dfd9b-b99e-4299-9d85-10a06acaa2f5)
 
 > - Gameplay
-> - ![image](https://github.com/user-attachments/assets/f42b5e43-ab14-410a-8164-b43189db8d6e)
+>   ![image](https://github.com/user-attachments/assets/f42b5e43-ab14-410a-8164-b43189db8d6e)
 
-> - Win/draw result screen
-> - ![image](https://github.com/user-attachments/assets/2895f5f2-93ae-4846-9d47-6e232c8ef833)
-> - ![image](https://github.com/user-attachments/assets/1260a439-5379-49ed-a278-24dfe6b846ee)
+> - Win result screen
+>   ![image](https://github.com/user-attachments/assets/2895f5f2-93ae-4846-9d47-6e232c8ef833)
+> - Draw result screen
+>   ![image](https://github.com/user-attachments/assets/1260a439-5379-49ed-a278-24dfe6b846ee)
 
 
 ---
