@@ -82,19 +82,6 @@ This project is great for beginner and intermediate web developers aiming to:
 
 ---
 
-## 🛠️ Customization Ideas
-
-Want to take this project further? Here are a few enhancement ideas:
-
-- ✅ Add player name input fields
-- ✅ Add sound effects for clicks and win/draw results
-- ✅ Add score tracking for multiple rounds
-- ✅ Implement AI opponent using the Minimax algorithm
-- ✅ Make the game mobile-friendly with improved responsiveness
-- ✅ Add animations on game end or box selection
-
----
-
 ## 📦 How to Use Locally
 
 1. Clone or download the repository:
