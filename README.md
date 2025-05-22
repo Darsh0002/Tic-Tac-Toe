@@ -86,4 +86,4 @@ This project is great for beginner and intermediate web developers aiming to:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/DARSH0002/tic-tac-toe.git
+   git clone https://github.com/DARSH0002/Tic-Tac-Toe.git
